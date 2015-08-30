@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TCS Word Suggestion</string>
+    <string name="title_activity_main">TCS Word Suggestion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="input_text_label">Please enter you search text</string>
+    <string name="source_data_loaded">Source data loaded successfully</string>
+
+    <string name="source_data_refresh_error">Unable to read data from source</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Study\Android\WordSuggestion\app\build\intermediates\exploded-aar\WordSuggestion\libraries\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6d91edbccbc8f8321a67f929e677a6f7353a39f0">
+        <dex dex="E:\Study\Android\WordSuggestion\app\build\intermediates\pre-dexed\debug\classes-6ec3bdf0c675268f5314c16b1c9b69ec06fe4ae4.jar" />
+    </item>
+
+</items>
